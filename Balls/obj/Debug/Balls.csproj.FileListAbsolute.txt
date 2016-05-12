@@ -1,0 +1,9 @@
+C:\Users\Богдан\Documents\Visual Studio 2012\Projects\Balls\Balls\bin\Debug\Balls.exe.config
+C:\Users\Богдан\Documents\Visual Studio 2012\Projects\Balls\Balls\bin\Debug\Balls.exe
+C:\Users\Богдан\Documents\Visual Studio 2012\Projects\Balls\Balls\bin\Debug\Balls.pdb
+C:\Users\Богдан\Documents\Visual Studio 2012\Projects\Balls\Balls\obj\Debug\Balls.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\Visual Studio 2012\Projects\Balls\Balls\obj\Debug\Balls.Properties.Resources.resources
+C:\Users\Богдан\Documents\Visual Studio 2012\Projects\Balls\Balls\obj\Debug\Balls.csproj.GenerateResource.Cache
+C:\Users\Богдан\Documents\Visual Studio 2012\Projects\Balls\Balls\obj\Debug\Balls.exe
+C:\Users\Богдан\Documents\Visual Studio 2012\Projects\Balls\Balls\obj\Debug\Balls.pdb
+C:\Users\Богдан\Documents\Visual Studio 2012\Projects\Balls\Balls\obj\Debug\Balls.Form1.resources

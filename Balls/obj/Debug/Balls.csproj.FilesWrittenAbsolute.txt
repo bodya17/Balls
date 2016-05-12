@@ -1,0 +1,8 @@
+/media/bodik/AE4E16F04E16B157/Users/Богдан/Documents/Visual Studio 2012/Projects/Balls/Balls/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/bodik/AE4E16F04E16B157/Users/Богдан/Documents/Visual Studio 2012/Projects/Balls/Balls/obj/Debug/Balls.Form1.resources
+/media/bodik/AE4E16F04E16B157/Users/Богдан/Documents/Visual Studio 2012/Projects/Balls/Balls/obj/Debug/Balls.Properties.Resources.resources
+/media/bodik/AE4E16F04E16B157/Users/Богдан/Documents/Visual Studio 2012/Projects/Balls/Balls/bin/Debug/Balls.exe.config
+/media/bodik/AE4E16F04E16B157/Users/Богдан/Documents/Visual Studio 2012/Projects/Balls/Balls/bin/Debug/Balls.exe.mdb
+/media/bodik/AE4E16F04E16B157/Users/Богдан/Documents/Visual Studio 2012/Projects/Balls/Balls/bin/Debug/Balls.exe
+/media/bodik/AE4E16F04E16B157/Users/Богдан/Documents/Visual Studio 2012/Projects/Balls/Balls/obj/Debug/Balls.exe
+/media/bodik/AE4E16F04E16B157/Users/Богдан/Documents/Visual Studio 2012/Projects/Balls/Balls/obj/Debug/Balls.exe.mdb
